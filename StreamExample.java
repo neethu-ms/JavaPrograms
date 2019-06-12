@@ -1,3 +1,4 @@
+//A Program to find first number in a given stream of numbers 
 import java.util.Optional;
 import java.util.stream.Stream;
 
